@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UtYMNwsG0Fbs1vMqiz5WTUJdEtbSgTVbr8hQqKt751vUk97KJ1DD9qDOJz4q/tQ4tJM6S8M1FIiBHuSmL/vhvg==",
+  "success": true,
+  "projectFilePath": "/Users/flatironschool/Desktop/C#/IntroLibrary/IntroLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/flatironschool/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/flatironschool/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

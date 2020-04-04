@@ -1,0 +1,9 @@
+/Users/flatironschool/Desktop/C#/IntroLibrary/bin/Debug/netstandard2.0/IntroLibrary.deps.json
+/Users/flatironschool/Desktop/C#/IntroLibrary/bin/Debug/netstandard2.0/IntroLibrary.dll
+/Users/flatironschool/Desktop/C#/IntroLibrary/bin/Debug/netstandard2.0/IntroLibrary.pdb
+/Users/flatironschool/Desktop/C#/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.csprojAssemblyReference.cache
+/Users/flatironschool/Desktop/C#/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.csproj.CoreCompileInputs.cache
+/Users/flatironschool/Desktop/C#/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.AssemblyInfoInputs.cache
+/Users/flatironschool/Desktop/C#/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.AssemblyInfo.cs
+/Users/flatironschool/Desktop/C#/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.dll
+/Users/flatironschool/Desktop/C#/IntroLibrary/obj/Debug/netstandard2.0/IntroLibrary.pdb

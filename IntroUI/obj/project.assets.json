@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IntroLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/IntroLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IntroLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntroLibrary/1.0.0": {
+      "type": "project",
+      "path": "../IntroLibrary/IntroLibrary.csproj",
+      "msbuildProject": "../IntroLibrary/IntroLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "IntroLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/flatironschool/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/flatironschool/Desktop/C#/IntroUI/IntroUI.csproj",
+      "projectName": "IntroUI",
+      "projectPath": "/Users/flatironschool/Desktop/C#/IntroUI/IntroUI.csproj",
+      "packagesPath": "/Users/flatironschool/.nuget/packages/",
+      "outputPath": "/Users/flatironschool/Desktop/C#/IntroUI/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/flatironschool/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/Users/flatironschool/Desktop/C#/IntroLibrary/IntroLibrary.csproj": {
+              "projectPath": "/Users/flatironschool/Desktop/C#/IntroLibrary/IntroLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
